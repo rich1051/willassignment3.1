@@ -12,7 +12,6 @@ let foodArray = ['pasta', 'pizza', 'chicken wings', 'mashed potatoes'];
 
 // 1.b. TODO: Log your array of foods to the console with a message, similar 
 //      to the example above
-
 console.log('My favorite foods are: ', foodArray);
 
 // 2. Array.length - tells you how many items are in the array
